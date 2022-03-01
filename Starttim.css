@@ -1,0 +1,48 @@
+/*
+ * - MAIN
+ * - CARDS
+ * - BUTTONS
+ * - MEDIA
+ * - TEXT
+ * - STATS
+*/
+
+/* ---------- TAG: color: var ----------*/
+:root {
+  /*- Very-Dark-Magenta (Primary)*/
+  --Very-Dark-Magenta: hsl(300, 43%, 22%);
+  /*- Soft-Pink (Primary)*/
+  --Soft-Pink: hsl(333, 80%, 67%);
+  /*- Dark-Grayish-Magenta (Neutral)*/
+  --Dark-Grayish-Magenta: hsl(303, 10%, 53%);
+  /*- Light-Grayish-Magenta (Neutral)*/
+  --Light-Grayish-Magenta: hsl(300, 24%, 96%);
+  /*- White (Neutral)*/
+  --White: hsl(0, 0%, 100%);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/*---------- MOBILE ----------*/
+
+/*---------- DESKTOP ----------*/
+
+/*---------- MAIN ----------*/
+
+/*---------- CARDS ----------*/
+
+/*---------- TEXT ----------*/
+
+/*---------- STATS ----------*/
+
+/*---------- MEDIA ----------*/
+
+/*---------- BUTTONS ----------*/
+body {
+
+  color: var(--White)
+}
